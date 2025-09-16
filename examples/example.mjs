@@ -6,7 +6,7 @@ import { analize } from '../dist/index.js';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const logsPath = path.resolve(__dirname, '../logs.json');
+const logsPath = path.resolve(__dirname, './logs.json');
 let logs;
 try {
   const content = fs.readFileSync(logsPath, 'utf8');

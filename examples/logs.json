@@ -1,0 +1,317 @@
+[
+  {
+    "dateTime": "2025-09-16:14-13-50-353",
+    "name": "connect",
+    "value": "start"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-52-033",
+    "name": "connect",
+    "value": "end"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-52-588",
+    "name": "fnQueryData",
+    "value": "start"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-53-101",
+    "name": "fnQueryData",
+    "value": "end"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-53-101",
+    "name": "checkIfFFDIsNew",
+    "value": "start"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-53-110",
+    "name": "checkIfFFDIsNew",
+    "value": "end"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-53-110",
+    "name": "checkIsAtolNewFirmwareVersion",
+    "value": "start"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-53-174",
+    "name": "checkIsAtolNewFirmwareVersion",
+    "value": "end"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-53-175",
+    "name": "getValidationResults",
+    "value": "start"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-53-175",
+    "name": "validateKM 0",
+    "value": "start"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-53-175",
+    "name": "validateKM 0",
+    "value": "end"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-53-175",
+    "name": "getValidationResults",
+    "value": "end"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-53-175",
+    "name": "checkAndPushClicheToAtol",
+    "value": "start"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-53-311",
+    "name": "checkAndPushClicheToAtol",
+    "value": "end"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-53-311",
+    "name": "openDocument",
+    "value": "start"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-53-311",
+    "name": "openFiscalDocument",
+    "value": "start"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-53-735",
+    "name": "openFiscalDocument",
+    "value": "end"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-53-758",
+    "name": "openDocument",
+    "value": "end"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-53-759",
+    "name": "addReceiptNumbersToDocument",
+    "value": "start"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-53-922",
+    "name": "addReceiptNumbersToDocument",
+    "value": "end"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-53-923",
+    "name": "printReceiptData",
+    "value": "start"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-53-923",
+    "name": "addPositions",
+    "value": "start"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-53-924",
+    "name": "addPosition",
+    "value": "start"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-53-924",
+    "name": "27424892 Product 20х30 ",
+    "value": "1"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-53-924",
+    "name": "getAgentForm",
+    "value": "start"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-53-949",
+    "name": "getAgentForm",
+    "value": "end"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-53-949",
+    "name": "getSuplierInfo",
+    "value": "start"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-53-975",
+    "name": "getSuplierInfo",
+    "value": "end"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-53-975",
+    "name": "getIndustryInfo",
+    "value": "start"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-53-975",
+    "name": "getIndustryInfo",
+    "value": "end"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-53-975",
+    "name": "setAdditionParamsForFinsevice",
+    "value": "start"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-53-975",
+    "name": "setAdditionParamsForFinsevice",
+    "value": "end"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-53-975",
+    "name": "setPositionAttributes",
+    "value": "start"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-53-975",
+    "name": "setPositionAttributes",
+    "value": "end"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-53-975",
+    "name": "setParamsForNewFFD",
+    "value": "start"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-53-975",
+    "name": "setParamsForNewFFD",
+    "value": "end"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-53-975",
+    "name": "registration",
+    "value": "start"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-54-165",
+    "name": "registration",
+    "value": "end"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-54-165",
+    "name": "setDiscounts",
+    "value": "start"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-54-165",
+    "name": "setDiscounts",
+    "value": "end"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-54-165",
+    "name": "setProperties",
+    "value": "start"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-54-210",
+    "name": "setProperties",
+    "value": "end"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-54-210",
+    "name": "addPosition",
+    "value": "end"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-54-273",
+    "name": "addPositions",
+    "value": "end"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-54-273",
+    "name": "setDiscounts",
+    "value": "start"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-54-274",
+    "name": "setDiscounts",
+    "value": "end"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-54-274",
+    "name": "printReceiptInfo",
+    "value": "start"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-54-274",
+    "name": "printBarcode",
+    "value": "start"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-54-453",
+    "name": "printBarcode",
+    "value": "end"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-54-453",
+    "name": "printPromo",
+    "value": "start"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-54-453",
+    "name": "printPromo",
+    "value": "end"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-54-453",
+    "name": "printReceiptInfo",
+    "value": "end"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-54-453",
+    "name": "addNotifications",
+    "value": "start"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-54-490",
+    "name": "addNotifications",
+    "value": "end"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-54-490",
+    "name": "addPayments",
+    "value": "start"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-54-535",
+    "name": "addPayments",
+    "value": "end"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-55-091",
+    "name": "printReceiptData",
+    "value": "end"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-55-092",
+    "name": "printFiscalData",
+    "value": "start"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-55-092",
+    "name": "closeFiscalDocument",
+    "value": "start"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-56-115",
+    "name": "openFiscalDocument",
+    "value": "end"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-56-116",
+    "name": "addFiscalDataToDocument",
+    "value": "start"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-56-885",
+    "name": "addFiscalDataToDocument",
+    "value": "end"
+  },
+  {
+    "dateTime": "2025-09-16:14-13-57-491",
+    "name": "printFiscalData",
+    "value": "end"
+  }
+]
