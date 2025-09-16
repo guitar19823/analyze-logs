@@ -1,0 +1,40 @@
+{
+  "name": "analyze-logs",
+  "version": "0.1.0",
+  "description": "Builds a tree from start/end log entries and flattens it for display.",
+  "license": "MIT",
+  "type": "module",
+  "main": "dist/index.cjs",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js",
+      "require": "./dist/index.cjs"
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsup",
+    "example": "node examples/example.mjs",
+    "clean": "rimraf dist",
+    "prepublishOnly": "npm run clean && npm run build"
+  },
+  "keywords": [
+    "logs",
+    "tree",
+    "analysis"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "@types/node": "^24.5.0",
+    "rimraf": "^6.0.1",
+    "tsup": "^8.0.2",
+    "typescript": "^5.6.3"
+  }
+}
