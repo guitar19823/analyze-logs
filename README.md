@@ -36,12 +36,13 @@ If no path is provided, it looks for `logs.json` in the current directory.
 
 ```json
 [
-  { "dateTime": "YYYY-MM-DD:HH-mm-ss-SSS", "name": "task", "value": "start|end|other" }
+  { "dateTime": "YYYY-MM-DD:HH-mm-ss-SSS", "name": "task", "value": "start|end|error|other" }
 ]
 ```
 
 - `start` opens a new nested node.
 - `end` closes the most recent node with the same `name`.
+- `error` closes the most recent node with the same `name`.
 - Other values become leaf events with zero duration.
 
 ## License

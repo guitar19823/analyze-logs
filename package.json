@@ -1,6 +1,6 @@
 {
   "name": "analyze-logs",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Builds a tree from start/end log entries and flattens it for display.",
   "license": "MIT",
   "type": "module",
