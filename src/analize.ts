@@ -3,5 +3,9 @@ import { flattenTree } from "./flattenTree";
 import { LogEntry } from "./types";
 
 export const analize = (logs: LogEntry[]) => {
-  console.table(flattenTree(buildTree(logs)));
+  const result = flattenTree(buildTree(logs));
+
+  console.table(result);
+
+  return result;
 }
